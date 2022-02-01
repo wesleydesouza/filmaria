@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7814c7b.css",
-    "main.js": "/static/js/main.36b88427.js",
-    "index.html": "/index.html",
-    "main.d7814c7b.css.map": "/static/css/main.d7814c7b.css.map",
-    "main.36b88427.js.map": "/static/js/main.36b88427.js.map"
+    "main.css": "/filmaria/static/css/main.d7814c7b.css",
+    "main.js": "/filmaria/static/js/main.36b88427.js",
+    "index.html": "/filmaria/index.html",
+    "main.d7814c7b.css.map": "/filmaria/static/css/main.d7814c7b.css.map",
+    "main.36b88427.js.map": "/filmaria/static/js/main.36b88427.js.map"
   },
   "entrypoints": [
     "static/css/main.d7814c7b.css",
