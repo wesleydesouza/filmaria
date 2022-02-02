@@ -1,5 +1,5 @@
 {
-  "homepage": "https://wesleydesouza.github.io/filmaria",
+  "homepage": "https://wesleydesouza.github.io/filmaria/",
   "name": "filmaria",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
+    "react-toastify": "^8.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
